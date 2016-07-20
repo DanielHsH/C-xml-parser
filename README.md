@@ -1,6 +1,7 @@
-# C XML parser
+# C XML parser (designed for embedded systems)
 
-plain C (not C++) implementation of 2 XML parsers, with zero memory usage (no memory allocations)
+Plain C (not C++) implementation of 2 XML parsers, with zero memory usage (no memory allocations).
+Emphasys on tiny memory signature 
 Definitions are based on schemas: http://www.w3.org/TR/xmlschema-1/, http://www.w3schools.com/xml/xml_attributes.asp
 
 ### Important notations: 
